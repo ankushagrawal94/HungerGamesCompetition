@@ -1,4 +1,4 @@
-# Hunger Games Test Program
+# Hunger Games Testing Program
 
 This is an implementation of a test engine for [Brilliant.org's Hunger Games Competition](http://brilliant.org/competitions/hunger-games/).
 
